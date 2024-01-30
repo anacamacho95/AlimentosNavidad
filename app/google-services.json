@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1033978325726",
+    "project_id": "alimentosnavidad",
+    "storage_bucket": "alimentosnavidad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033978325726:android:b7c17e9eaa5b392679b04f",
+        "android_client_info": {
+          "package_name": "com.example.alimentosnavidad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxODx5DGEjaSvaBS8ReKcntNGlZ22cZWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
